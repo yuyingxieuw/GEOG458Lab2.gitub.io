@@ -1,5 +1,7 @@
 # GEOG458Lab2.gitub.io
 # Resaerch Project: Discourse of the Gig Economy in London and NewYork
+
+
 ## 1. The topic as well as the parameters you have used for search
 This project is about the discourse of the gig economy in two cities: London (United Kingdom) and New York (United States) 
 Parameters of the location are selected, centering at the downtown of the two cities and the measured distance tries to cover most of the city areas in the map while remaining similar to make comparison make more sense.
