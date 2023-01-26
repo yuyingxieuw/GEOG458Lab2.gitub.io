@@ -1,9 +1,10 @@
 # GEOG458Lab2.gitub.io
 # Resaerch Project: Discourse of the Gig Economy in London and NewYork
 ![Image 1](https://github.com/yuyingxieuw/GEOG458Lab2.gitub.io/blob/main/img/wordcloud%201%20London.png)
-Discourse of the Gig Economy in London 
+Discourse of the Gig Economy in London [(Download the csv data)](https://github.com/yuyingxieuw/GEOG458Lab2.gitub.io/blob/main/assets/twsearch-result%20gig%20economy%20London.numbers)
 ![Image 2](https://github.com/yuyingxieuw/GEOG458Lab2.gitub.io/blob/main/img/wordcloud%202%20NewYork.png)
-Discourse of the Gig Economy in NewYork
+Discourse of the Gig Economy in NewYork [(Download the csv data)](https://github.com/yuyingxieuw/GEOG458Lab2.gitub.io/blob/main/assets/twsearch-result%20new%20york.numbers)
+
 ## 1. The topic as well as the parameters you have used for search
 This project is about the discourse of the gig economy in two cities: London (United Kingdom) and New York (United States) 
 Parameters of the location are selected, centering at the downtown of the two cities and the measured distance tries to cover most of the city areas in the map while remaining similar to make comparison make more sense.
