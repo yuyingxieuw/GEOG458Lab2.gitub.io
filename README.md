@@ -6,8 +6,9 @@ Discourse of the Gig Economy in London [(Download the csv data)](https://github.
 Discourse of the Gig Economy in NewYork [(Download the csv data)](https://github.com/yuyingxieuw/GEOG458Lab2.gitub.io/blob/main/assets/twsearch-result%20new%20york.numbers)
 
 ## 1. The topic as well as the parameters you have used for search
-This project is about the discourse of the gig economy in two cities: London (United Kingdom) and New York (United States) 
-Parameters of the location are selected, centering at the downtown of the two cities and the measured distance tries to cover most of the city areas in the map while remaining similar to make comparison make more sense.
+Using recent tweets, this project analyzes the discourse of the gig economy in London (United Kingdom) and New York (United States) to discuss how different leagal infrastructures shape narratives around gig economy in these two cities. 
+
+Parameters of the location are selected centering at the downtown of the two cities and the measured distance tries to cover most of the city areas in the map while remaining similar to make the comparison make more sense.
 > London: 51.50950652372234, -0.1373361577574506, 12.52 mi
 > New York: 40.710681826140664,-74.00169240652883, 12mi 
 
@@ -36,5 +37,6 @@ My research could be improved in the following four ways:
 The general result is basically aligned with my expectation - People in London have more discussion around legal debate due to the Uber v. Alms cases. And people in New York focus more on whether the gig economy is beneficial or exploitative for its business model. 
 
 One thing that stands out to me is that the words "Oxford", and "University" frequently emerged in the tweets from London areas. After doing some research, I realized it is because criticism around university teachers recently raised a lot of attention. The public is criticizing that Universities in the UK, led by Oxford, are "uberizing" their teachers by classifying them as contracted workers just like what the gig economy is doing. Such a trend adds more uncertainty to researchers and teachers in academia and jeopardizes their career stability and, as a result, becomes a big word in recent gig economy tweets. 
+
 
 
