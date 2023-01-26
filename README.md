@@ -9,7 +9,7 @@ Discourse of the Gig Economy in NewYork [(Download the csv data)](https://github
 Using recent tweets, this project analyzes the discourse of the gig economy in London (United Kingdom) and New York (United States) to discuss how different leagal infrastructures shape narratives around gig economy in these two cities. 
 
 Parameters of the location are selected centering at the downtown of the two cities and the measured distance tries to cover most of the city areas in the map while remaining similar to make the comparison make more sense.
-> London: 51.50950652372234, -0.1373361577574506, 12.52 mi
+> London: 51.50950652372234, -0.1373361577574506, 12.52 mi 
 > New York: 40.710681826140664,-74.00169240652883, 12mi 
 
 ## 2. Why do you want to make this comparison 
